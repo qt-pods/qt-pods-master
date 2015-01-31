@@ -2,6 +2,6 @@
 	"qjack": "https://github.com/cybercatalyst/qjack.git",
 	"qmacsystemtrayiconimpl": "https://github.com/cybercatalyst/qmacsystemtrayiconimpl.git",
 	"qoauth2": "https://github.com/cybercatalyst/qoauth2.git",
-	"qverbalexpression": "https://github.com/cybercatalyst/qverbalexpressions",
+	"qverbalexpressions": "https://github.com/cybercatalyst/qverbalexpressions",
 	"qt-pods-core": "https://github.com/cybercatalyst/qt-pods-core.git"
 }
