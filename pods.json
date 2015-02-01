@@ -4,5 +4,6 @@
 	"qoauth2": "https://github.com/cybercatalyst/qoauth2.git",
 	"qverbalexpressions": "https://github.com/VerbalExpressions/QtVerbalExpressions.git",
 	"qton": "https://github.com/cybercatalyst/qton.git",
+	"qplist": "https://github.com/cybercatalyst/qplist.git",
 	"qt-pods-core": "https://github.com/cybercatalyst/qt-pods-core.git"
 }
