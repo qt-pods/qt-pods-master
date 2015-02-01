@@ -3,5 +3,6 @@
 	"qmacsystemtrayiconimpl": "https://github.com/cybercatalyst/qmacsystemtrayiconimpl.git",
 	"qoauth2": "https://github.com/cybercatalyst/qoauth2.git",
 	"qverbalexpressions": "https://github.com/VerbalExpressions/QtVerbalExpressions.git",
+	"qton": "https://github.com/cybercatalyst/qton.git",
 	"qt-pods-core": "https://github.com/cybercatalyst/qt-pods-core.git"
 }
