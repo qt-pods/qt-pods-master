@@ -4,7 +4,7 @@
 	"qoauth2": "https://github.com/cybercatalyst/qoauth2.git",
 	"qverbalexpressions": "https://github.com/VerbalExpressions/QtVerbalExpressions.git",
 	"qton": "https://github.com/cybercatalyst/qton.git",
-	"qplist": "https://github.com/cybercatalyst/qplist.git",
+	"qtplist": "https://github.com/reillywatson/qtplist.git",
 	"qredmine": "https://github.com/Kernald/redmine-qt.git",
 	"qwaitingspinner": "https://github.com/cybercatalyst/qwaitingspinner.git",
 	"qogrewidget": "https://github.com/cybercatalyst/qogrewidget.git",
