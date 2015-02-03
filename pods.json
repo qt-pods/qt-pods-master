@@ -5,6 +5,7 @@
 	"qverbalexpressions": "https://github.com/VerbalExpressions/QtVerbalExpressions.git",
 	"qton": "https://github.com/cybercatalyst/qton.git",
 	"qtplist": "https://github.com/reillywatson/qtplist.git",
+	"qthtmlencode": "https://github.com/cybercatalyst/qthtmlencode.git",
 	"qredmine": "https://github.com/Kernald/redmine-qt.git",
 	"qtwaitingspinner": "https://github.com/cybercatalyst/qtwaitingspinner.git",
 	"qogrewidget": "https://github.com/cybercatalyst/qogrewidget.git",
