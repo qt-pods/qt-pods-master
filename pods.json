@@ -8,7 +8,7 @@
 	"qthtmlencode": "https://github.com/cybercatalyst/qthtmlencode.git",
 	"qredmine": "https://github.com/Kernald/redmine-qt.git",
 	"qtwaitingspinner": "https://github.com/cybercatalyst/qtwaitingspinner.git",
-	"qogrewidget": "https://github.com/cybercatalyst/qogrewidget.git",
+	"qtogrewidget": "https://github.com/cybercatalyst/qtogrewidget.git",
 	"qgamepad": "https://github.com/cybercatalyst/qgamepad.git",
 	"qt-pods-core": "https://github.com/cybercatalyst/qt-pods-core.git"
 }
