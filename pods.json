@@ -11,5 +11,6 @@
 	"qtogrewidget": "https://github.com/cybercatalyst/qtogrewidget.git",
 	"qgamepad": "https://github.com/cybercatalyst/qgamepad.git",
 	"qtterminalwidget": "https://github.com/cybercatalyst/qtterminalwidget.git",
+	"qtwebserver": "https://github.com/cybercatalyst/qtwebserver.git",
 	"qt-pods-core": "https://github.com/cybercatalyst/qt-pods-core.git"
 }
