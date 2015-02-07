@@ -14,5 +14,6 @@
 	"qtwebserver": "https://github.com/cybercatalyst/qtwebserver.git",
 	"qtirc": "https://github.com/cybercatalyst/qtirc.git",
 	"qtbonjour": "https://github.com/cybercatalyst/qtbonjour.git",
+	"qtnotify": "https://github.com/cybercatalyst/qtnotify.git",
 	"qt-pods-core": "https://github.com/cybercatalyst/qt-pods-core.git"
 }
