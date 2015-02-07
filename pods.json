@@ -6,7 +6,7 @@
 	"qton": "https://github.com/cybercatalyst/qton.git",
 	"qtplist": "https://github.com/reillywatson/qtplist.git",
 	"qthtmlencode": "https://github.com/cybercatalyst/qthtmlencode.git",
-	"qredmine": "https://github.com/Kernald/redmine-qt.git",
+	"qtredmine": "https://github.com/Kernald/redmine-qt.git",
 	"qtwaitingspinner": "https://github.com/cybercatalyst/qtwaitingspinner.git",
 	"qtogrewidget": "https://github.com/cybercatalyst/qtogrewidget.git",
 	"qgamepad": "https://github.com/cybercatalyst/qgamepad.git",
