@@ -2,7 +2,7 @@
 	"qjack": "https://github.com/cybercatalyst/qjack.git",
 	"qtsystemtrayiconmac": "https://github.com/cybercatalyst/qtsystemtrayiconmac.git",
 	"qoauth2": "https://github.com/cybercatalyst/qoauth2.git",
-	"qverbalexpressions": "https://github.com/VerbalExpressions/QtVerbalExpressions.git",
+	"qtverbalexpressions": "https://github.com/VerbalExpressions/QtVerbalExpressions.git",
 	"qton": "https://github.com/cybercatalyst/qton.git",
 	"qtplist": "https://github.com/reillywatson/qtplist.git",
 	"qthtmlencode": "https://github.com/cybercatalyst/qthtmlencode.git",
