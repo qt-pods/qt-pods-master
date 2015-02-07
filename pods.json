@@ -9,7 +9,7 @@
 	"qtredmine": "https://github.com/Kernald/redmine-qt.git",
 	"qtwaitingspinner": "https://github.com/cybercatalyst/qtwaitingspinner.git",
 	"qtogrewidget": "https://github.com/cybercatalyst/qtogrewidget.git",
-	"qgamepad": "https://github.com/cybercatalyst/qgamepad.git",
+	"qtgamepad": "https://github.com/cybercatalyst/qtgamepad.git",
 	"qtterminalwidget": "https://github.com/cybercatalyst/qtterminalwidget.git",
 	"qtwebserver": "https://github.com/cybercatalyst/qtwebserver.git",
 	"qtirc": "https://github.com/cybercatalyst/qtirc.git",
