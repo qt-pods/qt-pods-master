@@ -16,5 +16,6 @@
 	"qtbonjour": "https://github.com/cybercatalyst/qtbonjour.git",
 	"qtnotify": "https://github.com/cybercatalyst/qtnotify.git",
 	"qtsmtpclient": "https://github.com/cybercatalyst/qtsmtpclient.git",
+	"qtlzma": "https://github.com/cybercatalyst/qtlzma.git",
 	"qt-pods-core": "https://github.com/cybercatalyst/qt-pods-core.git"
 }
