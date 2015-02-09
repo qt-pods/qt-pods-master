@@ -13,7 +13,7 @@
 	"qtterminalwidget": "https://github.com/cybercatalyst/qtterminalwidget.git",
 	"qtwebserver": "https://github.com/cybercatalyst/qtwebserver.git",
 	"qtirc": "https://github.com/cybercatalyst/qtirc.git",
-	"qtbonjour": "https://github.com/cybercatalyst/qtbonjour.git",
+	"qtbonjour": "https://github.com/sikoragmbh/qtbonjour.git",
 	"qtnotify": "https://github.com/cybercatalyst/qtnotify.git",
 	"qtsmtpclient": "https://github.com/cybercatalyst/qtsmtpclient.git",
 	"qtlzma": "https://github.com/sladage/QtLZMA.git",
