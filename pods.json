@@ -1,22 +1,122 @@
 {
-	"qtjack": "https://github.com/cybercatalyst/qtjack.git",
-	"qtsystemtrayiconmac": "https://github.com/cybercatalyst/qtsystemtrayiconmac.git",
-	"qtoauth2": "https://github.com/cybercatalyst/qtoauth2.git",
-	"qtverbalexpressions": "https://github.com/VerbalExpressions/QtVerbalExpressions.git",
-	"qton": "https://github.com/cybercatalyst/qton.git",
-	"qtplist": "https://github.com/reillywatson/qtplist.git",
-	"qthtmlencode": "https://github.com/cybercatalyst/qthtmlencode.git",
-	"qtredmine": "https://github.com/Kernald/redmine-qt.git",
-	"qtwaitingspinner": "https://github.com/cybercatalyst/qtwaitingspinner.git",
-	"qtogrewidget": "https://github.com/cybercatalyst/qtogrewidget.git",
-	"qtgamepad": "https://github.com/cybercatalyst/qtgamepad.git",
-	"qtterminalwidget": "https://github.com/cybercatalyst/qtterminalwidget.git",
-	"qtwebserver": "https://github.com/cybercatalyst/qtwebserver.git",
-	"qtirc": "https://github.com/cybercatalyst/qtirc.git",
-	"qtbonjour": "https://github.com/sikoragmbh/qtbonjour.git",
-	"qtnotify": "https://github.com/cybercatalyst/qtnotify.git",
-	"qtsmtpclient": "https://github.com/cybercatalyst/qtsmtpclient.git",
-	"qtlzma": "https://github.com/sladage/QtLZMA.git",
-	"qtqrencode": "https://github.com/cybercatalyst/qtqrencode.git",
-	"qt-pods-core": "https://github.com/cybercatalyst/qt-pods-core.git"
+	"qtjack": {
+	  "url": "https://github.com/cybercatalyst/qtjack.git",
+	  "author": "Jacob Dawid",
+	  "license": "GPLv3",
+	  "description": "Interface the JACK Audio Connection Kit."
+	},
+	"qtsystemtrayiconmac": {
+	  "url": "https://github.com/cybercatalyst/qtsystemtrayiconmac.git",
+	  "author": "Jacob Dawid",
+	  "license": "AGPLv3",
+	  "description": "System tray icon with MacOSX native features."
+	},
+	"qtoauth2": {
+	  "url": "https://github.com/cybercatalyst/qtoauth2.git",
+	  "author": "Jacob Dawid",
+	  "license": "AGPLv3",
+	  "description": "OAuth2 authentication."
+	},
+	"qtverbalexpressions": {
+	  "url": "https://github.com/VerbalExpressions/QtVerbalExpressions.git",
+	  "author": "Skhaz",
+	  "license": "MIT",
+	  "description": "Regular expressions with spoken words."
+	},
+	"qton": {
+	  "url": "https://github.com/cybercatalyst/qton.git",
+	  "author": "TrigenSoftware",
+	  "license": "BSD-like",
+	  "description": "Qt Object Notation to JSON translator."
+	},
+	"qtplist": {
+	  "url": "https://github.com/reillywatson/qtplist.git",
+	  "author": "Reilly Watson",
+	  "license": "MIT",
+	  "description": "Read and write plist (Mac OS X property list) files."
+	},
+	"qthtmlencode": {
+	  "url": "https://github.com/cybercatalyst/qthtmlencode.git",
+	  "author": "Reilly Watson",
+	  "license": "MIT",
+	  "description": "HTML encode strings."
+	},
+	"qtredmine": {
+	  "url": "https://github.com/Kernald/redmine-qt.git",
+	  "author": "Kernald",
+	  "license": "BSD-like",
+	  "description": "Access to a Redmine instance using its REST API."
+	},
+	"qtwaitingspinner": {
+	  "url": "https://github.com/cybercatalyst/qtwaitingspinner.git",
+	  "author": "Alexander Turkin, William Hallatt, Jacob Dawid",
+	  "license": "MIT",
+	  "description": "Floating waiting spinner widget."
+	},
+	"qtogrewidget": {
+	  "url": "https://github.com/cybercatalyst/qtogrewidget.git",
+	  "author": "Jacob Dawid",
+	  "license": "AGPLv3",
+	  "description": "Embed an OGRE window in a widget."
+	},
+	"qtgamepad": {
+	  "url": "https://github.com/cybercatalyst/qtgamepad.git",
+	  "author": "Andy Nichols",
+	  "license": "BSD-like",
+	  "description": "Access gamepads and controllers."
+	},
+	"qtterminalwidget": {
+	  "url": "https://github.com/cybercatalyst/qtterminalwidget.git",
+	  "author": "Various",
+	  "license": "GPLv2",
+	  "description": "True terminal emulation as a Qt widget."
+	},
+	"qtwebserver": {
+	  "url": "https://github.com/cybercatalyst/qtwebserver.git",
+	  "author": "Jacob Dawid",
+	  "license": "GPLv3",
+	  "description": "Embeddable, multithreaded webserver."
+	},
+	"qtirc": {
+	  "url": "https://github.com/cybercatalyst/qtirc.git",
+	  "author": "Jacob Dawid",
+	  "license": "GPLv3",
+	  "description": "IRC chat client."
+	},
+	"qtbonjour": {
+	  "url": "https://github.com/sikoragmbh/qtbonjour.git",
+	  "author": "Trenton Schulz",
+	  "license": "BSD-like",
+	  "description": "Access and expose bonjour network services."
+	},
+	"qtnotify": {
+	  "url": "https://github.com/cybercatalyst/qtnotify.git",
+	  "author": "Mohammed Nafees",
+	  "license": "BSD-like",
+	  "description": "Show desktop notfications."
+	},
+	"qtsmtpclient": {
+	  "url": "https://github.com/cybercatalyst/qtsmtpclient.git",
+	  "author": "Tőkés Attila",
+	  "license": "LGPLv2",
+	  "description": "Send E-Mails with attachments via STMP."
+	},
+	"qtlzma": {
+	  "url": "https://github.com/sladage/QtLZMA.git",
+	  "author": "Stefan Ladage",
+	  "license": "LGPLv3",
+	  "description": "LZMA compression encoding/decoding of QByteArray."
+	},
+	"qtqrencode": {
+	  "url": "https://github.com/cybercatalyst/qtqrencode.git",
+	  "author": "Neal Sebastian",
+	  "license": "MIT",
+	  "description": "Generate QR Codes from QByteArray data."
+	},
+	"qt-pods-core": {
+	  "url": "https://github.com/cybercatalyst/qt-pods-core.git",
+	  "author": "Jacob Dawid",
+	  "license": "GPLv3",
+	  "description": "Qt Pods managment functions."
+	}
 }
