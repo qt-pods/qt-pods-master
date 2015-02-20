@@ -118,5 +118,11 @@
 	  "author": "Jacob Dawid",
 	  "license": "GPLv3",
 	  "description": "Qt Pods managment functions."
-	}
+	},
+	"qtflickr": {
+	  "url": "https://github.com/cybercatalyst/qtflickr.git",
+	  "author": "Evgeni Gordejev",
+	  "license": "LGPLv2.1",
+	  "description": "Access flickr."
+	},	
 }
