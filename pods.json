@@ -124,5 +124,11 @@
 	  "author": "Evgeni Gordejev",
 	  "license": "LGPLv2.1",
 	  "description": "Access flickr."
-	},	
+	},
+	"qtdropbox": {
+	  "url": "https://github.com/cybercatalyst/qtdropbox.git",
+	  "author": "Daniel Eder",
+	  "license": "LGPLv3",
+	  "description": "Access dropbox."
+	}
 }
