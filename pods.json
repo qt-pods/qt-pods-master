@@ -114,7 +114,7 @@
 	  "description": "Generate QR Codes from QByteArray data."
 	},
 	"qt-pods-core": {
-	  "url": "https://github.com/cybercatalyst/qt-pods-core.git",
+	  "url": "https://github.com/qt-pods/qt-pods-core.git",
 	  "author": "Jacob Dawid",
 	  "license": "GPLv3",
 	  "description": "Qt Pods managment functions."
