@@ -130,5 +130,11 @@
 	  "author": "Daniel Eder",
 	  "license": "LGPLv3",
 	  "description": "Access dropbox."
+	},
+	  "qtruby": {
+	  "url": "https://github.com/cybercatalyst/qtruby.git",
+	  "author": "Jacob Dawid",
+	  "license": "AGPLv3",
+	  "description": "Interface ruby code from within your C++/Qt application."
 	}
 }
