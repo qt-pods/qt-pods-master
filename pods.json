@@ -105,7 +105,7 @@
 	  "url": "https://github.com/sladage/QtLZMA.git",
 	  "author": "Stefan Ladage",
 	  "license": "LGPLv3",
-	  "description": "LZMA compression encoding/decoding of QByteArray."
+	  "description": "LZMA compression encoding/decoding."
 	},
 	"qtqrencode": {
 	  "url": "https://github.com/cybercatalyst/qtqrencode.git",
