@@ -24,7 +24,7 @@
 	  "description": "Regular expressions with spoken words."
 	},
 	"qton": {
-	  "url": "https://github.com/cybercatalyst/qton.git",
+	  "url": "https://github.com/TrigenSoftware/QTon.git",
 	  "author": "TrigenSoftware",
 	  "license": "BSD-like",
 	  "description": "Qt Object Notation to JSON translator."
