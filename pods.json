@@ -142,5 +142,11 @@
 	  "author": "Alex Spataru",
 	  "license": "LGPLv2.1",
 	  "description": "Simple application updater."
+	},
+	  "qtamd": {
+	  "url": "https://github.com/cybercatalyst/qtamd.git",
+	  "author": "Jacob Dawid",
+	  "license": "AGPLv3",
+	  "description": "Library for interfacing AMD devices."
 	}
 }
