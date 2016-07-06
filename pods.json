@@ -136,5 +136,11 @@
 	  "author": "Jacob Dawid",
 	  "license": "AGPLv3",
 	  "description": "Interface ruby code from within your C++/Qt application."
+	},
+	  "qtsimpleupdater": {
+	  "url": "https://github.com/buzzySmile/QSimpleUpdater.git",
+	  "author": "Alex Spataru",
+	  "license": "LGPLv2.1",
+	  "description": "Simple application updater."
 	}
 }
