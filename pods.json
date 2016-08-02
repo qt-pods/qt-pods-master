@@ -154,5 +154,11 @@
 	  "author": "Jacob Dawid",
 	  "license": "AGPLv3",
 	  "description": "Library that links the ethereum miner directly."
+	},
+	  "qtmeta": {
+	  "url": "https://github.com/cybercatalyst/qtmeta.git",
+	  "author": "Jacob Dawid",
+	  "license": "AGPLv3",
+	  "description": "Qt metaprogramming add-on library."
 	}
 }
