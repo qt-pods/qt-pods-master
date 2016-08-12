@@ -160,5 +160,11 @@
 	  "author": "Jacob Dawid",
 	  "license": "AGPLv3",
 	  "description": "Qt metaprogramming add-on library."
+	},
+	  "qtjsonrpc": {
+	  "url": "https://github.com/cybercatalyst/qtjsonrpc.git",
+	  "author": "Jacob Dawid",
+	  "license": "AGPLv3",
+	  "description": "JSON RPC 2.0 integrating seamlessly with Qt5+"
 	}
 }
