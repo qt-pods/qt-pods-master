@@ -1,18 +1,24 @@
 {
+	"qcodeedit": {
+	  "url": "https://github.com/jacob3141/qcodeedit.git",
+	  "author": "Jacob Dawid",
+	  "license": "GPLv3",
+	  "description": "Code editor widget."
+	},
 	"qtjack": {
-	  "url": "https://github.com/cybercatalyst/qtjack.git",
+	  "url": "https://github.com/jacob3141/qtjack.git",
 	  "author": "Jacob Dawid",
 	  "license": "GPLv3",
 	  "description": "Interface the JACK Audio Connection Kit."
 	},
 	"qtsystemtrayiconmac": {
-	  "url": "https://github.com/cybercatalyst/qtsystemtrayiconmac.git",
+	  "url": "https://github.com/jacob3141/qtsystemtrayiconmac.git",
 	  "author": "Jacob Dawid",
 	  "license": "AGPLv3",
 	  "description": "System tray icon with MacOSX native features."
 	},
 	"qtoauth2": {
-	  "url": "https://github.com/cybercatalyst/qtoauth2.git",
+	  "url": "https://github.com/jacob3141/qtoauth2.git",
 	  "author": "Jacob Dawid",
 	  "license": "AGPLv3",
 	  "description": "OAuth2 authentication."
@@ -36,7 +42,7 @@
 	  "description": "Read and write plist (Mac OS X property list) files."
 	},
 	"qthtmlencode": {
-	  "url": "https://github.com/cybercatalyst/qthtmlencode.git",
+	  "url": "https://github.com/jacob3141/qthtmlencode.git",
 	  "author": "Reilly Watson",
 	  "license": "MIT",
 	  "description": "HTML encode strings."
@@ -48,37 +54,37 @@
 	  "description": "Access to a Redmine instance using its REST API."
 	},
 	"qtwaitingspinner": {
-	  "url": "https://github.com/cybercatalyst/qtwaitingspinner.git",
+	  "url": "https://github.com/jacob3141/qtwaitingspinner.git",
 	  "author": "Alexander Turkin, William Hallatt, Jacob Dawid",
 	  "license": "MIT",
 	  "description": "Floating waiting spinner widget."
 	},
 	"qtogrewidget": {
-	  "url": "https://github.com/cybercatalyst/qtogrewidget.git",
+	  "url": "https://github.com/jacob3141/qtogrewidget.git",
 	  "author": "Jacob Dawid",
 	  "license": "AGPLv3",
 	  "description": "Embed an OGRE window in a widget."
 	},
 	"qtgamepad": {
-	  "url": "https://github.com/cybercatalyst/qtgamepad.git",
+	  "url": "https://github.com/jacob3141/qtgamepad.git",
 	  "author": "Andy Nichols",
 	  "license": "BSD-like",
 	  "description": "Access gamepads and controllers."
 	},
 	"qtterminalwidget": {
-	  "url": "https://github.com/cybercatalyst/qtterminalwidget.git",
+	  "url": "https://github.com/jacob3141/qtterminalwidget.git",
 	  "author": "Various",
 	  "license": "GPLv2",
 	  "description": "True terminal emulation as a Qt widget."
 	},
 	"qtwebserver": {
-	  "url": "https://github.com/cybercatalyst/qtwebserver.git",
+	  "url": "https://github.com/jacob3141/qtwebserver.git",
 	  "author": "Jacob Dawid",
 	  "license": "GPLv3",
 	  "description": "Embeddable, multithreaded webserver."
 	},
 	"qtirc": {
-	  "url": "https://github.com/cybercatalyst/qtirc.git",
+	  "url": "https://github.com/jacob3141/qtirc.git",
 	  "author": "Jacob Dawid",
 	  "license": "GPLv3",
 	  "description": "IRC chat client."
@@ -90,13 +96,13 @@
 	  "description": "Access and expose bonjour network services."
 	},
 	"qtnotify": {
-	  "url": "https://github.com/cybercatalyst/qtnotify.git",
+	  "url": "https://github.com/jacob3141/qtnotify.git",
 	  "author": "Mohammed Nafees",
 	  "license": "BSD-like",
 	  "description": "Show desktop notfications."
 	},
 	"qtsmtpclient": {
-	  "url": "https://github.com/cybercatalyst/qtsmtpclient.git",
+	  "url": "https://github.com/jacob3141/qtsmtpclient.git",
 	  "author": "Tőkés Attila",
 	  "license": "LGPLv2",
 	  "description": "Send E-Mails with attachments via STMP."
@@ -108,7 +114,7 @@
 	  "description": "LZMA compression encoding/decoding."
 	},
 	"qtqrencode": {
-	  "url": "https://github.com/cybercatalyst/qtqrencode.git",
+	  "url": "https://github.com/jacob3141/qtqrencode.git",
 	  "author": "Neal Sebastian",
 	  "license": "MIT",
 	  "description": "Generate QR Codes from QByteArray data."
@@ -120,19 +126,19 @@
 	  "description": "Qt Pods managment functions."
 	},
 	"qtflickr": {
-	  "url": "https://github.com/cybercatalyst/qtflickr.git",
+	  "url": "https://github.com/jacob3141/qtflickr.git",
 	  "author": "Evgeni Gordejev",
 	  "license": "LGPLv2.1",
 	  "description": "Access flickr."
 	},
 	"qtdropbox": {
-	  "url": "https://github.com/cybercatalyst/qtdropbox.git",
+	  "url": "https://github.com/jacob3141/qtdropbox.git",
 	  "author": "Daniel Eder",
 	  "license": "LGPLv3",
 	  "description": "Access dropbox."
 	},
 	  "qtruby": {
-	  "url": "https://github.com/cybercatalyst/qtruby.git",
+	  "url": "https://github.com/jacob3141/qtruby.git",
 	  "author": "Jacob Dawid",
 	  "license": "AGPLv3",
 	  "description": "Interface ruby code from within your C++/Qt application."
@@ -144,25 +150,25 @@
 	  "description": "Simple application updater."
 	},
 	  "qtamd": {
-	  "url": "https://github.com/cybercatalyst/qtamd.git",
+	  "url": "https://github.com/jacob3141/qtamd.git",
 	  "author": "Jacob Dawid",
 	  "license": "AGPLv3",
 	  "description": "Library for interfacing AMD devices."
 	},
 	  "qtethminer": {
-	  "url": "https://github.com/cybercatalyst/qtethminer.git",
+	  "url": "https://github.com/jacob3141/qtethminer.git",
 	  "author": "Jacob Dawid",
 	  "license": "AGPLv3",
 	  "description": "Library that links the ethereum miner directly."
 	},
 	  "qtmeta": {
-	  "url": "https://github.com/cybercatalyst/qtmeta.git",
+	  "url": "https://github.com/jacob3141/qtmeta.git",
 	  "author": "Jacob Dawid",
 	  "license": "AGPLv3",
 	  "description": "Qt metaprogramming add-on library."
 	},
 	  "qtjsonrpc": {
-	  "url": "https://github.com/cybercatalyst/qtjsonrpc.git",
+	  "url": "https://github.com/jacob3141/qtjsonrpc.git",
 	  "author": "Jacob Dawid",
 	  "license": "AGPLv3",
 	  "description": "JSON RPC 2.0 integrating seamlessly with Qt5+"
