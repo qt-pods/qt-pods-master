@@ -1,7 +1,7 @@
 {
 	"qcodeedit": {
 	  "url": "https://github.com/jacob3141/qcodeedit.git",
-	  "author": "Jacob Dawid",
+	  "author": "Luc Bruant, Jacob Dawid",
 	  "license": "GPLv3",
 	  "description": "Code editor widget."
 	},
